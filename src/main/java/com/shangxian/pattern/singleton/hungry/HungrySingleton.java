@@ -1,4 +1,4 @@
-package com.shangxian.pattern.singleton;
+package com.shangxian.pattern.singleton.hungry;
 
 /**
  * @author: taofei
